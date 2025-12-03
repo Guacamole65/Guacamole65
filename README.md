@@ -1,16 +1,15 @@
-## Hi there 👋
+##Hi, I'm Joachim
 
-<!--
-**Guacamole65/Guacamole65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a Master’s student in Data Science & AI for Business, at EDHEC, a top French business school.
+💡 Passionate about how AI and technology can transform finance & fintech.
+🚀 Building projects that explore applied machine learning, analytics, and automation.
 
-Here are some ideas to get you started:
+🔧 Tech & Interests :
+AI in Finance, fintech innovation, automation
+Machine Learning, Data Science, business-oriented AI 
+Python, analytics workflows, experimentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Current Focus : 
+Exploring AI applications in fintech
+Strengthening ML skills
+Turning ideas into practical, data-driven solutions
